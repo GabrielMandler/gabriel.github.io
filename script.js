@@ -22,7 +22,7 @@ var settings = {
     sub1: "banner_sub1",
     
     // routing settings
-    onelink_id: "pGHC",
+    onelink_id: "R7ji",
     subdomain: "appsflyer",
     mobile_deeplink: "appsflyer://"
 };
