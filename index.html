@@ -10,8 +10,8 @@
 var params = {
 	af_dp: 'aizel://'
 }
-//                 params['pid'] = utm_source
-AF('banners', 'showBanner')
+params['pid'] = utm_source
+AF('banners', 'showBanner', additionalParams: params)
     
     
     
